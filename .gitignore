@@ -25,5 +25,5 @@ cmd/web/main
 # Environment variables
 .env
 
-# Dependency directories (remove the comment below to include it)
-# vendor/
+# Dependency directories
+vendor/
